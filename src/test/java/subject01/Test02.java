@@ -6,7 +6,6 @@ public class Test02 {
 
         System.out.println("We have made some changes at our project");
 
-
-
+        System.out.println("Hello World");
     }
 }
